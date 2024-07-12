@@ -1,7 +1,6 @@
-console.log('fungsi pertama');
-console.log('fungsi kedua');
-console.log('fungsi ketiga');
-console.log('fungsi keempat');
+console. log('fungsi pertama');
+console. log('fungsi kedua');
 
-const add = (a,b) => a+b;
-console.log(add(1,2));
+
+const add = (a, b) => a + b;
+console. log(add(1, 2));
